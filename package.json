@@ -1,0 +1,13 @@
+{
+  "name": "facebook-reaction-audit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sample": "node src/sample-reactions.mjs",
+    "summarize": "node src/summarize.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.45.0"
+  }
+}
